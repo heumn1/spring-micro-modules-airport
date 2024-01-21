@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="services" />
+        <module name="repository" />
+        <module name="configuration" />
+        <module name="web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="airport-administration" target="17" />
+      <module name="configuration" target="17" />
+      <module name="demo" target="17" />
+      <module name="managment" target="17" />
+      <module name="repository" target="17" />
+      <module name="services" target="17" />
+      <module name="spring-micro" target="1.5" />
+      <module name="web" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="airport-administration" options="-parameters" />
+      <module name="configuration" options="-parameters" />
+      <module name="demo" options="-parameters" />
+      <module name="managment" options="-parameters" />
+      <module name="repository" options="-parameters" />
+      <module name="services" options="-parameters" />
+      <module name="web" options="-parameters" />
+    </option>
+  </component>
+</project>
