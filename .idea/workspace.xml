@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f83b0af-a382-4631-a6a2-413658b8d5c0" name="Changes" comment="Add all modules" />
+    <list default="true" id="2f83b0af-a382-4631-a6a2-413658b8d5c0" name="Changes" comment="Add all modules">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +53,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog",
     "spring.configuration.checksum": "2474da3360b14c3c4b58a6f054902647"
   }
 }]]></component>
@@ -161,7 +164,7 @@
       <workItem from="1705780117358" duration="598000" />
       <workItem from="1705844477761" duration="18000" />
       <workItem from="1705852558051" duration="689000" />
-      <workItem from="1705868002574" duration="5244000" />
+      <workItem from="1705868002574" duration="5828000" />
     </task>
     <task id="LOCAL-00001" summary="Add all modules">
       <created>1705875575114</created>
@@ -170,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705875575115</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add all modules">
+      <created>1705876004519</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705876004519</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
