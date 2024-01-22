@@ -53,8 +53,8 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog",
-    "spring.configuration.checksum": "2474da3360b14c3c4b58a6f054902647"
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "spring.configuration.checksum": "a52b61ef67a23e6889c1c0d5e9c77aa0"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -165,6 +165,7 @@
       <workItem from="1705844477761" duration="18000" />
       <workItem from="1705852558051" duration="689000" />
       <workItem from="1705868002574" duration="5828000" />
+      <workItem from="1705876264984" duration="982000" />
     </task>
     <task id="LOCAL-00001" summary="Add all modules">
       <created>1705875575114</created>
@@ -180,7 +181,21 @@
       <option name="project" value="LOCAL" />
       <updated>1705876004519</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add all modules">
+      <created>1705876353854</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705876353854</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add all modules">
+      <created>1705876425746</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705876425746</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
